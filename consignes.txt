@@ -1,0 +1,15 @@
+Largeur du container : 800px centrer le conatiner dans la page
+taille de chaque container photo 200px
+couleur du container ul : #fafafa
+
+Consigne de Structuration :
+Créer le bandeau noir par l'élément H1
+Structurer la grille dans une liste ul
+Valider le html avant d'appliquer la css
+
+CSS
+
+Mettre la base css à zéro : margin, padding, box-sizing et police de caractère sans-serif.
+Police de caratère à utiliser 'Open Sans'
+Utiliser la propriété float pour structurer la grille.
+
